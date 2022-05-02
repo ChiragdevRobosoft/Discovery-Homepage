@@ -8,3 +8,15 @@
   padding: 3px 5px;
   border-radius: 2px;
 }
+
+.normal-button {
+  size: medium;
+  background-color: blue;
+  color: white;
+}
+
+.large-button {
+  size: large;
+  background-color: black;
+  color: white;
+}
