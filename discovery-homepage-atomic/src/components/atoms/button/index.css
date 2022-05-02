@@ -1,0 +1,10 @@
+@import "../../_settings/variables.css";
+
+.signin-btn {
+  background-color: var(--blue-1);
+  border: none;
+  color: var(--white);
+  font-size: 16px;
+  padding: 3px 5px;
+  border-radius: 2px;
+}
