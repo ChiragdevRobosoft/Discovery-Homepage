@@ -1,3 +1,4 @@
+@import "../../_settings/variables.css";
 .search-box {
   border: none;
   border-bottom: 1px solid var(--white);

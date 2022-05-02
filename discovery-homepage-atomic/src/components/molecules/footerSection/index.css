@@ -1,3 +1,5 @@
+@import "../../_settings/variables.css";
+
 .up-section {
   display: flex;
   flex-direction: row;
@@ -47,9 +49,6 @@
 
 .followus-icon {
   border-radius: 5px;
-}
-
-.store-links {
 }
 
 .appicon-holder {
